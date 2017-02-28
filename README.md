@@ -1,14 +1,8 @@
 # cartesian-product
 
-Compute the cartesian product of an array.
-
-![build status](http://img.shields.io/travis/izaakschroeder/cartesian-product.svg?style=flat)
-![coverage](http://img.shields.io/coveralls/izaakschroeder/cartesian-product.svg?style=flat)
-![license](http://img.shields.io/npm/l/cartesian-product.svg?style=flat)
-![version](http://img.shields.io/npm/v/cartesian-product.svg?style=flat)
-![downloads](http://img.shields.io/npm/dm/cartesian-product.svg?style=flat)
-
-Simple library to compute the cartesian product.
+Simple library to compute the cartesian product. A de-moduled version of [Izaak
+Schroeder](https://github.com/izaakschroeder/cartesian-product)'s
+implementation.
 
 ```javascript
 var product = require('cartesian-product');
